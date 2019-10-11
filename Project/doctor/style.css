@@ -1,0 +1,88 @@
+#div1{
+    width: 40%;
+    float: left;
+}
+fieldset.fset{
+    border: 1px solid dodgerblue;
+    border-radius: 7px;
+    color: green;
+    font-size: 1.8vw;
+    font-family: "Times New Roman";
+    background-color: #e9ecef;
+}
+.fset p{
+    margin-top: 0px;
+    margin-bottom: 1px;
+}
+.inputs{
+    margin: 1px;
+}
+select.inputs,input.inputs{
+    height: 30px;
+    width: 60%;
+    border: 1px solid dodgerblue;
+    border-radius: 7px;
+}
+.cabtn{
+    color: white;
+	border: none;
+	font-family: "Times New Roman"; 
+    background-color: #007bff;
+    border-radius: 10px;
+    padding: 7px 10px;
+    font-size: 1.3vw;
+	cursor: pointer;
+    margin-top: 10px;
+    margin-left: 25%;
+}
+.cabtn:hover{
+    background-color: #0069d9;
+}
+.cabtn:active{
+    border: none;
+}
+div.div2{
+    float: right;
+    width: 56%;
+    margin-right: 25px;
+}
+ul.lul{
+    background-color: #80b3ff;
+    list-style-type: none;
+    padding: 0px;
+    margin-top: 3px;
+    margin-bottom: 5px;
+}
+li.lii{
+    display: inline-block;
+    margin: 0px;
+}
+.hku{
+    color: white;
+    display: inline-block;
+    padding: 8px;
+    background-color: #80b3ff;
+    border: none;
+    cursor: pointer; 
+    padding-top: 10px;
+}
+.hku:hover{
+    background-color: black;
+}
+#pc,#pcc{
+    margin-top: 2px;
+    border-left: 5px solid dodgerblue;
+    background-color: white;
+    padding: 7px 7px;
+    text-align: justify;
+    font-size: 1.5vw;
+}
+div.div4{
+    float: right;
+    width: 49%;
+    margin-right: 25px;
+}
+div.div3{
+    width: 48%;
+    float: left;
+}

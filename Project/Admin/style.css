@@ -1,0 +1,68 @@
+.belay{
+    width: 11%;
+    display: inline-block;
+    border-right: 2px solid dodgerblue;
+    height: 505px;
+    margin-top: -17px;
+}
+.ino{
+    margin-left: 12px;
+}
+.ina{
+    margin-left: 30px;
+}
+.mb{
+    margin-bottom: -12px;
+}
+.beyene{
+    width: 87%;
+}
+.fldsett{
+    background-color: white;
+    display: inline-block;
+    margin-left: 15px;
+    margin-bottom: 18px;
+    height: 60px;
+}
+.imga{
+    margin-top: -12px;
+}
+.hr{
+	margin-bottom: 0px;
+}
+.h1{
+	color: #33cccc;
+	text-align: center;
+	font-family: courier;
+	font-size: 4vw;
+    margin-top: 20px;
+    margin-left: 19%;
+    display: inline-block;
+}
+#ul{
+    margin-top: 10px;
+}
+#fo{
+    margin-left: 20%;
+    display: inline-block;
+}
+#imf{
+    display: none;
+}
+.bini{
+    width: 85%;
+    display: inline-block;
+    float: left;
+}
+#tesfay{
+    width: 10%;
+    display: inline-block;
+    float: right;
+    margin-top: -80px;
+    padding: 0px;
+    height: 70px;
+}
+#pimage{
+    max-width: 80px;
+    max-height: 50px;
+}
